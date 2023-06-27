@@ -25,6 +25,7 @@ How to run
 7. Openning Web-GUI using localhost::8050 (8050 is default DASH port), you need to re-arrange the GUI by your self, by dragging the icon to whatever place you want 
 
 FAQ
+
 Q1: Unable to run DASH2.py due to existed port already using
 
 A1: Open task manager, searching "dash", removing all the task related to Python-Dash and then running DASH2.py again
